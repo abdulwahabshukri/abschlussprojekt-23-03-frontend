@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+  <head>
+    <title>Formular mit Bootstrap</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container mt-6 mx-auto">
+      <div class="row">
+        <div class="col-md-4 mx-auto">
+          <img src="logo.jpg" alt="Logo">
+        </div>
+      </div>
+      <div class="col-mt-6 mx-auto">
+        <h1>Personalverwaltungssystem</h1>
+      <form>
+        <div class="form-group">
+          <label for="eingabe-personalnummer">Personalnummer:</label>
+          <input type="text" class="form-control" id="eingabe-personalnummer" placeholder="Personalnummer eingeben:">
+          <button type="button" class="btn btn-primary" id="btnPersonalnummerPruefen">Personalnummer überprüfen</button>
+        </div>
+        <div class="form-group">
+          <label for="ausgabe-personalnummer"></label>
+          <input type="text" class="form-control" id="ausgabe-personalnummer" placeholder="Ausgabe" readonly>
+        </div>
+        <div class="form-group">
+          <label for="personalnummer">Zuteilung Personalnummer:</label>
+          <input type="text" class="form-control" id="personalnummer" placeholder="Personalnummer" required>
+        </div>
+        <h2>Angabe zur Person:</h2>
+        <div class="form-group">
+          <label for="anrede">Anrede:</label>
+          <input type="text" class="form-control" id="anrede" placeholder="Anrede: Herr/Frau" required>
+        </div>
+        <div class="form-group">
+          <label for="vorname">Vorname:</label>
+          <input type="text" class="form-control" id="vorname" placeholder="Vorname:" required>
+        </div>
+        <div class="form-group">
+          <label for="nachname">Nachname:</label>
+          <input type="text" class="form-control" id="nachname" placeholder="Nachname:" required>
+        </div>
+        <div class="form-group">
+          <label for="geburtsdatum">Geburtsdatum:</label>
+          <input type="date" class="form-control" id="geburtsdatum" placeholder="Geburtsdatum" required>
+        </div>
+        <div class="form-group">
+          <label for="staatsangehörigkeit">Staatsangehörigkeit:</label>
+          <input type="text" class="form-control" id="staatsangehörigkeit" placeholder="Staatsangehörigkeit:" required>
+        </div>
+        <div class="form-group">
+          <label for="geschlecht">Geschlecht:</label>
+          <select class="form-control" id="geschlecht" required>
+            <option value="männlich">männlich</option>
+            <option value="weiblich">weiblich</option>
+            <option value="divers">divers</option>
+          </select>
+        </div>
+        <h2>Kontakt Informationen:</h2>
+        <div class="form-group">
+          <label for="email">E-Mail:</label>
+          <input type="email" class="form-control" id="email" placeholder="E-Mail:" required>
+        </div>
+        <div class="form-group">
+          <label for="telefon">Telefonnummer:</label>
+          <input type="text" class="form-control" id="telefon" placeholder="Telefonnummer:" required>
+        </div>
+        <div class="form-group">
+          <label for="strasse">Straße/Hausnummer:</label>
+          <input type="text" class="form-control" id="strasse" placeholder="Straße/Hausnummer:" required>
+        </div>
+        <div class="form-group">
+          <label for="plz">PLZ:</label>
+          <input type="text" class="form-control" id="plz" placeholder="PLZ:" required>
+        </div>
+        <div class="form-group">
+          <label for="wohnort">Wohnort:</label>
+          <input type="text" class="form-control" id="wohnort" placeholder="Wohnort:" required>
+        </div>
+        <h2>Bankverbindung:</h2>
+        <div class="form-group">
+          <label for="kontoinhaber">Kontoinhaber:</label>
+          <input type="text" class="form-control" id="kontoinhaber" placeholder="Kontoinhaber:" required>
+        </div>
+        <div class="form-group">
+          <label for="iban">IBAN:</label>
+          <input type="text" class="form-control" id="iban" placeholder="IBAN:" required>
+        </div>
+        <div class="form-group">
+          <label for="name des kreditinstituts">Name des Kreditinstituts:</label>
+          <input type="text" class="form-control" id="kreditinstitut" placeholder="Name des Kreditinstituts:" required>
+        </div>
+        <h2>Lohnsteuer:</h2>
+        <div class="form-group">
+          <label for="steueridentifikationsnummer">Steueridentifikationsnummer:</label>
+          <input type="text" class="form-control" id="steueridentifikationsnummer" placeholder="Steueridentifikationsnummer:" required>
+        </div>
+        <div class="form-group">
+          <label for="steuerklasse">Steuerklasse:</label>
+          <input type="text" class="form-control" id="steuerklasse" placeholder="Steuerklasse:" required>
+        </div>
+        <h2>Sozialversicherung:</h2>
+        <div class="form-group">
+          <label for="krankenkasse">Krankenkasse:</label>
+          <input type="text" class="form-control" id="krankenkasse" placeholder="Krankenkasse:" required>
+        </div>
+        <div class="form-group">
+          <label for="versicherungsnummer">Versicherungsnummer (RV-Nummer):</label>
+          <input type="text" class="form-control" id="versicherungsnummer" placeholder="Versicherungsnummer (RV-Nummer):" required>
+        </div>
+        <h2>Personalabteilung:</h2>
+        <div class="form-group">
+          <label for="beginn">Beginn der Beschäftigung:</label>
+          <input type="text" class="form-control" id="beginn" placeholder="Beginn der Beschäftigung:" required>
+        </div>
+        <div class="form-group">
+          <label for="berufsbezeichnung">Berufsbezeichnung:</label>
+          <input type="text" class="form-control" id="berufsbezeichnung" placeholder="Berufsbezeichnung:" required>
+        </div>
+        <div class="form-group">
+          <label for="abteilung">Abteilung:</label>
+          <input type="text" class="form-control" id="abteilung" placeholder="Abteilung:" required>
+        </div>
+        <div class="float-left">
+            <button type="submit" class="btn btn-primary">Daten Speichern</button>
+            </div>  
+      </form>
+    </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

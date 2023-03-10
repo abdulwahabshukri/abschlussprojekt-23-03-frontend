@@ -1,5 +1,5 @@
 # abschlussprojekt-23-03-frontend
-Frontend Team Mitglieder: Michael, Michel, Adriano und Tom
+Frontend Team Mitglieder: Michael, Michel, Adriano und Tom.
 
 08.03.2023:
 Teams erstellt, Todos erstellt, research wie ein Personalverwaltungssystem aussehen soll.

@@ -7,6 +7,9 @@ Teams erstellt, Todos erstellt, research wie ein Personalverwaltungssystem ausse
 09.03.2023:
 Sprint 1 erstellt
 Erste entwürfe hochgeladen und mitgeteilt an den Backend-Team.
-Weitere version der HTML mit css hochgeladen in diese Github Repo
+Weitere version der HTML mit css hochgeladen in diese Github Repo.
 
 10.03.2023:
+CSS verfeinert, Flaggen eingefügt bei Staatsangehörigkeit, abstände (Margin) verbessert.
+Neuere Version in Github hochgeladen.
+Kontakt mit Backend ob es noch fragen gibt.

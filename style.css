@@ -1,75 +1,82 @@
 body {
-  background-color: #083346;
-  color: #8CF5BF;
+    background-color: #083346;
+    color: #8CF5BF;
+
 }
 
 form button[type="submit"]:hover {
-  background-color: #083847;
+    background-color: #083847;
 }
 
 form button[type="submit"] {
-  background-color: #A6F1C2;
-  color: #1c0808;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 5px;
-  cursor: pointer;
+    background-color: #A6F1C2;
+    color: #1c0808;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
 }
 
 form button[type="button"] {
-  background-color: #A6F1C2;
-  color: #1c0808;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 5px;
-  cursor: pointer;
+    background-color: #A6F1C2;
+    color: #1c0808;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
 }
 
 form button[type="button"]:hover {
-  background-color: #083847;
+    background-color: #083847;
 }
 
 .row img {
-  display: block;
-  margin: 0 auto;
+    display: block;
+    margin: 0 auto;
 }
 
 .form-group label {
-  display: inline-block;
-  width: 100px;
-  text-align: left;
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+
 }
 
 .form-group input {
-  width: 570px;
+    width: 570px;
 }
 
 .form-group input {
-  width: 100%;
-  margin-bottom: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+
 }
 
 @media (max-width: 768px) {
-  .form-group label {
-    display: block;
-    width: auto;
-    margin-bottom: 5px;
-  }
+    .form-group label {
+        display: block;
+        width: auto;
+        margin-bottom: 5px;
+    }
 }
 
 h1 {
-  border-bottom: 2px solid #8CF5BF;
-  font-weight: bold;
-  font-size: 2em;
-  text-align: center;
-  margin-bottom: 30px;
+    border-bottom: 2px solid #8CF5BF;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 30px;
+    border: 1px solid #8CF5BF;
+    border-radius: 5px;
 }
 
 h2 {
-  border-bottom: 2px solid #8CF5BF;
-  font-weight: bold;
-  font-size: 2em;
-  text-align: center;
-  margin-top: 50px;
-  margin-bottom: 30px;
+    border-bottom: 2px solid #8CF5BF;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border: 1px solid #8CF5BF;
+    border-radius: 5px;
 }

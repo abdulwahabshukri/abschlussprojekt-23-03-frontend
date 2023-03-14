@@ -80,3 +80,17 @@ h2 {
     border: 1px solid #8CF5BF;
     border-radius: 5px;
 }
+
+.float-right .btn-secondary {
+    background-color: #A6F1C2;
+    color: #1c0808;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.float-right .btn-secondary:hover {
+    background-color: #083847;
+    color: #fff;
+}

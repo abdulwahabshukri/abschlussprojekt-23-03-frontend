@@ -20,3 +20,8 @@ Heute haben wir auch mit den Backend und Infrastruktur kontakt gehabt.
 Dort ist rausgekommen das wir einen Container erstellen müssen und dort unseren Code reinpacken können. 
 Weil wir schon fertig waren mit unsere Todos für diesen Sprint.
 
+14.03.2023:
+Mit Backend abgesprochen das wir unser Localen Code an den Backend weiter geben, die werden Ihren teil einbinden damit wir ein produkt zeigen können an den Kunde morgen beim Sprint Review (auch abgesprochen wie wir das morgen zeigen wollen). 
+Wir haben mit den Scrum Master den Miro-Board aktualisiert und die Kommentare eingefügt. 
+Wir haben versucht mit Infrastruktur in Kontakt zu kommen, aber das hat nicht wirklich funktioniert, weil wir fragen haben über diesen Container mit Docker und Jenkinsfile, was wird genau von uns verlangt..
+

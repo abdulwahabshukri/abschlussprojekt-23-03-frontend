@@ -30,7 +30,7 @@ Wir haben versucht mit Infrastruktur in Kontakt zu kommen, aber das hat nicht wi
 Sprint-Review durchgeführt.
 Vorstellung unseres Frontends in der Klasse.
 Um mögliche Fehler vorzubeugen und rechtzeitig zu erkennen bzw. zu beheben.
-Meinung des Kunden eingeholt.
+Meinung des Kunden eingeholt zum Projekt.
 
 16.03.2023:
 

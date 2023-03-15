@@ -27,4 +27,8 @@ Wir haben mit dem Scrum Master das Miro-Board aktualisiert und die Kommentare ei
 Wir haben versucht mit Infrastruktur in Kontakt zu kommen, aber das hat nicht wirklich funktioniert, weil wir fragen haben über diesen Container mit Docker und Jenkinsfile, was wird genau von uns verlangt?
 
 15.03.2023:
+Sprint-Review durchgeführt.
+Vorstellung unseres Frontends in der Klasse.
+Um mögliche Fehler vorzubeugen und rechtzeitig zu erkennen bzw. zu beheben.
+Meinung des Kunden eingeholt.
 

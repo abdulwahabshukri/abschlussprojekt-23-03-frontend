@@ -26,3 +26,5 @@ Sie werden Ihren Teil einbinden damit wir ein produkt zeigen können das an dem 
 Wir haben mit dem Scrum Master das Miro-Board aktualisiert und die Kommentare eingefügt. 
 Wir haben versucht mit Infrastruktur in Kontakt zu kommen, aber das hat nicht wirklich funktioniert, weil wir fragen haben über diesen Container mit Docker und Jenkinsfile, was wird genau von uns verlangt?
 
+15.03.2023:
+

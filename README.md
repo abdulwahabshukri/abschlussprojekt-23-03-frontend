@@ -33,4 +33,10 @@ Um mögliche Fehler vorzubeugen und rechtzeitig zu erkennen bzw. zu beheben.
 Meinung des Kunden eingeholt zum Projekt.
 
 16.03.2023:
+Daily in der Klasse durchgeführt.
+Feedback von jedem Teilnehmer eingeholt der durchgeführten Arbeiten.
+Ersten gemeinsamen Arbeiten an der Abschlusspräsentation in PowerPoint abgeschlossen.
+
+17.03.2023:
+
 

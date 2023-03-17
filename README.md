@@ -1,5 +1,5 @@
 # abschlussprojekt-23-03-frontend
-Frontend Team Mitglieder: 
+Frontend-Team Mitglieder: 
 
 -Michael Leipner
 -Michel Hilarius

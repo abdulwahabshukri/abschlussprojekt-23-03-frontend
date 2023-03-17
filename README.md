@@ -42,6 +42,6 @@ Daily in der Klasse durchgeführt.
 Feedback von jedem Teilnehmer eingeholt der durchgeführten Arbeiten. 
 Diverse Tests durchgeführt unter anderem einen Barrierefreiheitstest unseres html.code speziell im Team-Frontend.
 Arbeiten an der Abschlusspräsentation gemeinsam durchgeführt.
-Zwischenstand unseres Abschlussprojektes für jeden Teilnehmer einzeln protokolliert und bei Aufgaben abgegeben.
+Zwischenstand unseres Abschlussprojektes für jeden Teilnehmer einzeln protokolliert und bei Aufgaben (Microsoft Teams) abgegeben.
 
 20.03.2023:

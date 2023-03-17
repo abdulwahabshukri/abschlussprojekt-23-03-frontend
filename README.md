@@ -2,29 +2,29 @@
 Frontend Team Mitglieder: Michael, Michel, Adriano und Tom.
 
 08.03.2023:
-Teams erstellt, Todos erstellt, research wie ein Personalverwaltungssystem aussehen soll.
+Teams erstellt, Todos erstellt, Recherche wie ein Personalverwaltungssystem aussehen soll.
 
 09.03.2023:
 Sprint 1 erstellt
-Erste entwürfe hochgeladen und mitgeteilt an den Backend-Team.
-Weitere version der HTML mit css hochgeladen in diese Github Repo.
+Erste Entwürfe hochgeladen und an das Backend-Team übermittelt.
+Weitere Versionen der HTML mit (css) hochgeladen und in diese Github Repository.
 
 10.03.2023:
-CSS verfeinert, Flaggen eingefügt bei denStaatsangehörigkeiten, Abstände (Margin) verbessert.
+(CSS) angepasst, Flaggen eingefügt bei denn Staatsangehörigkeiten, Abstände (Margin) verbessert.
 Neuere Version in Github hochgeladen.
-Kontakt mit Backend ob es noch fragen gibt.
+Kontakt hergestellt mit Backend-Team ob es noch fragen gibt.
 
 13.03.2023:
-Ein Gespräche mit dem Product Owner gehabt, ob es optisch so ausseht wie gewünscht, und ob die eingabefelder passen / noch was fehlt, das Antwort war, dass es so gut aussieht, alle eingabefelder passen auch.
-Heute haben wir auch mit den Backend und Infrastruktur kontakt gehabt. 
-Dort ist rausgekommen das wir einen Container erstellen müssen und dort unseren Code reinpacken können. 
+Erste Gespräche mit dem Product-Owner im Daily absolviert, ob es optisch auch so aussieht wie vom Kunde gewünscht, und ob die diversen Eingabefelder passen / ob noch etwas fehlt bzw. Verbesserungsvorschläge gewünscht sind, die Antwort zum Vortrag war, dass es vorerst so gut aussieht, alle Eingabefelder sind okay.
+Heute haben wir auch mit den Backend und Infrastruktur Kontakt aufgebaut. 
+Dort ist rausgekommen das wir einen Container erstellen müssen und dort unseren Code hochladen müssten. 
 Weil wir schon fertig waren mit unsere Todos für diesen Sprint.
 
 14.03.2023:
-Mit dem Backend abgesprochen das wir unser Localen Code an das Backend-Team weiter gegeben haben.
-Sie werden Ihren Teil einbinden damit wir ein produkt zeigen können das an dem Kunde morgen beim Sprint Review gezeicht wird (ist abgesprochen wie wir das morgen zeigen wollen). 
-Wir haben mit dem Scrum Master das Miro-Board aktualisiert und die Kommentare eingefügt. 
-Wir haben versucht mit Infrastruktur in Kontakt zu kommen, aber das hat nicht wirklich funktioniert, weil wir fragen haben über diesen Container mit Docker und Jenkinsfile, was wird genau von uns verlangt?
+Mit dem Backend-Team abgesprochen das wir unseren localen Code an das Team weiter gegeben haben.
+Sie werden Ihren Teil einbinden damit wir ein fertiges Produkt zeigen können das an dem Kunde morgen beim Sprint-Review übergeben wird (es ist bereits abgesprochen im Team wie wir das morgen zeigen wollen). 
+Wir haben mit dem Scrum Master (Gabriel Ramirez) das Miro-Board aktualisiert und die Kommentare angefügt. 
+Wir haben versucht mit Team-Infrastruktur in Kontakt zu kommen, aber das hat nicht wirklich funktioniert, weil wir fragen haben über diesen Container mit Docker und Jenkinsfile, was wird speziell von uns verlangt?
 
 15.03.2023:
 Sprint-Review durchgeführt.

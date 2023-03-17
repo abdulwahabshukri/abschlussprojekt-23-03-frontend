@@ -15,7 +15,7 @@ Erste Entwürfe hochgeladen und an das Backend-Team übermittelt.
 Weitere Versionen der HTML mit (css) hochgeladen und in diese Github Repository.
 
 10.03.2023:
-(CSS) angepasst, Flaggen eingefügt bei denn Staatsangehörigkeiten, Abstände (Margin) verbessert.
+(CSS) angepasst, Länder-Flaggen eingefügt bei denn Staatsangehörigkeiten, Abstände (Margin) verbessert.
 Neuere Version in Github hochgeladen.
 Kontakt hergestellt mit Backend-Team ob es noch fragen gibt.
 

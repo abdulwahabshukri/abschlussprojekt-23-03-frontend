@@ -1,5 +1,10 @@
 # abschlussprojekt-23-03-frontend
-Frontend Team Mitglieder: Michael, Michel, Adriano und Tom.
+Frontend Team Mitglieder: 
+
+-Michael Leipner
+-Michel Hilarius
+-Adriano Christmann
+-Tom van Dujin
 
 08.03.2023:
 Teams erstellt, Todos erstellt, Recherche wie ein Personalverwaltungssystem aussehen soll.

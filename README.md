@@ -1,4 +1,4 @@
-# Abschlussprojekt-23-03-Frontend-Team
+# Abschlussprojekt 2023 Frontend-Team (techstarter.de)
 Frontend-Team Mitglieder: 
 
 -Michael Leipner

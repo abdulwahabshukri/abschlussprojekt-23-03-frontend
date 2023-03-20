@@ -11,7 +11,7 @@ pipeline {
         }
         stage('Release') {
             steps {
-               withCredentials([usernamePassword(credentialsId: 'abschlussprojekt', usernameVariable: 'USERNAME', passwordVariable: 'PASSWORD')]) { 
+               withCredentials([usernamePassword(credentialsId: 'abschluss-frontend', usernameVariable: 'USERNAME', passwordVariable: 'PASSWORD')]) { 
                 sh '''
                 docker login -u $USERNAME -p $PASSWORD
                 docker push tomvd123/frontend-abschluss:jenkins-${GITHUB_RUN_ID}

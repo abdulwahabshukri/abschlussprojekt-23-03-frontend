@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
               sh '''
-                docker build -t TechstarterGmbH/abschlussprojekt-23-03-frontend:jenkins-${GITHUB_RUN_ID} .
+                docker build -t tomvd123/abschlussprojekt-frontend:jenkins-${GITHUB_RUN_ID} .
               '''
             }
         }
@@ -14,7 +14,7 @@ pipeline {
                withCredentials([usernamePassword(credentialsId: 'abschlussprojekt', usernameVariable: 'USERNAME', passwordVariable: 'PASSWORD')]) { 
                 sh '''
                 docker login -u $USERNAME -p $PASSWORD
-                docker push TechstarterGmbH/abschlussprojekt-23-03-frontend:jenkins-${GITHUB_RUN_ID}
+                docker push tomvd123/abschlussprojekt-frontend:jenkins-${GITHUB_RUN_ID}
                 '''
               }
             }
@@ -22,9 +22,9 @@ pipeline {
         stage('deploy') {
             steps {
                 sh '''
-                docker stop abschlussprojekt-23-03-frontend || true
-                docker rm -f abschlussprojekt-23-03-frontend || true
-                docker run -p3000:80 -d --name abschlussprojekt-23-03-frontend TechstarterGmbH/abschlussprojekt-23-03-frontend:jenkins-${GITHUB_RUN_ID}
+                docker stop abschlussprojekt-frontend || true
+                docker rm -f abschlussprojekt-frontend || true
+                docker run -p3000:80 -d --name abschlussprojekt-frontend tomvd123/abschlussprojekt-frontend:jenkins-${GITHUB_RUN_ID}
                 '''
             }
         }

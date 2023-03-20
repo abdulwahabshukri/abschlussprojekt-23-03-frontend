@@ -50,3 +50,7 @@ Arbeiten an der Abschlusspräsentation gemeinsam durchgeführt.
 Zwischenstand unseres Abschlussprojektes für jeden Teilnehmer einzeln protokolliert und bei Aufgaben (Microsoft Teams) abgegeben.
 
 20.03.2023:
+Daily in der Klasse durchgeführt.
+Mit Gabriel das Miro-Board aktualisiert.
+Zusammen mit Infrastruktur team den unsere Github in ein Jenkins Pipeline getan damit jede code änderung den Deploy aktualisiert werden (erst in den Test Ressource-Gruppe, danach in die offizielle).
+Wir haben nach die erfolgreiche deployment das auch den Backend-Team gezeicht.

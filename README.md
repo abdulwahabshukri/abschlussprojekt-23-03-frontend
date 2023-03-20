@@ -51,6 +51,6 @@ Zwischenstand unseres Abschlussprojektes für jeden Teilnehmer einzeln protokoll
 
 20.03.2023:
 Daily in der Klasse durchgeführt.
-Mit Gabriel das Miro-Board aktualisiert.
-Zusammen mit Infrastruktur team den unsere Github in ein Jenkins Pipeline getan damit jede code änderung den Deploy aktualisiert werden (erst in den Test Ressource-Gruppe, danach in die offizielle).
+Mit Gabriel Ramirez das Miro-Board aktualisiert.
+Zusammen mit dem Infrastruktur-Team unser Github Repository in eine Jenkins Pipeline eingebunden, damit jede spezielle Code Änderung denn Deploy aktualisiert (erst in der Test Ressourcen-Gruppe, danach in die offizielle Ressorucen Gruppe eingefügt).
 Wir haben nach die erfolgreiche deployment das auch den Backend-Team gezeicht.

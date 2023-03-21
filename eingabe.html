@@ -21,7 +21,9 @@
 </head>
 
 <body style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <a href="index.html"><div style="position: absolute; top: 10px; right: 10px; color:#A6F1C2;">Zurück</div></a>
+    <a href="index.html">
+        <div style="position: absolute; top: 10px; right: 10px; color:#A6F1C2;">Zurück</div>
+    </a>
     <h1>Personalverwaltung</h1>
     <div class="container mt-6 mx-auto">
         <div class="row">
@@ -32,11 +34,12 @@
         <p></p>
         <div class="col-mt-6 mx-auto">
             <form>
-               
+
                 <!-- Personalnummer vergeben wenn noch keine vorhanden ist -->
                 <div class="form-group">
                     <label for="personalnummer">Zuteilung Personalnummer:</label>
-                    <input type="text" class="form-control" id="personalnummer" name="personalnummer" placeholder="Personalnummer" required>
+                    <input type="text" class="form-control" id="personalnummer" name="personalnummer"
+                        placeholder="Personalnummer" required>
                 </div>
                 <!-- Allgemeine Person angaben wie Anrede, Vorname, Nachname, Geburtsdatum, Geschlecht, Staatsangehörogkeit, -->
                 <h2>Angabe zur Person</h2>
@@ -47,19 +50,22 @@
                         <option value="">Bitte wählen</option>
                         <option value="Herr">Herr</option>
                         <option value="Frau">Frau</option>
+                        <option value="Divers"></option>
                     </select>
                 </div>
                 <div class="row">
                     <div class="col">
                         <div class="form-group">
                             <label for="vorname">Vorname:</label>
-                            <input type="text" class="form-control" id="vorname" name="vorname" placeholder="Vorname:" required>
+                            <input type="text" class="form-control" id="vorname" name="vorname" placeholder="Vorname:"
+                                required>
                         </div>
                     </div>
                     <div class="col">
                         <div class="form-group">
                             <label for="nachname">Nachname:</label>
-                            <input type="text" class="form-control" id="nachname" name="nachname" placeholder="Nachname:" required>
+                            <input type="text" class="form-control" id="nachname" name="nachname"
+                                placeholder="Nachname:" required>
                         </div>
                     </div>
                 </div>
@@ -115,21 +121,58 @@
                     <label for="email">E-Mail:</label>
                     <input type="email" class="form-control" id="email" name="email" placeholder="E-Mail:" required>
                 </div>
-                <div class="form-group">
-                    <label for="telefon">Telefonnummer:</label>
-                    <input type="text" class="form-control" id="telefon" name="telefon" placeholder="Telefonnummer:" required>
+                <div class="row">
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="laendercodes">Ländercodes:</label>
+                            <!-- Auswahlmenü Staatsangehörigkeit -->
+                            <select class="form-control" id="laendercodes" name="laendercodes" required>
+                                <option value="">Bitte wählen</option>
+                                <option value="USA">USA(+1)</option>
+                                <option value="Kanada">Kanada(+1)</option>
+                                <option value="Mexiko">Mexiko(+52)</option>
+                                <option value="Brasilien">Brasilien(+55)</option>
+                                <option value="Argentinien">Argentinien(+54)</option>
+                                <option value="Chile">Chile(+56)</option>
+                                <option value="Peru">Peru(+51)</option>
+                                <option value="Kolumbien">Kolumbien(+57)</option>
+                                <option value="Venezuela">Venzuela(+58)</option>
+                                <option value="Spanien">Spanien(+34)</option>
+                                <option value="Frankreich">Frankreich(+33)</option>
+                                <option value="Deutschland">Deutschland(+49)</option>
+                                <option value="Italien">Italien(+39)</option>
+                                <option value="Großbritannien">Großbritannien(+44)</option>
+                                <option value="Australien">Australien(+61)</option>
+                                <option value="Neuseeland">Neuseeland(+64)</option>
+                                <option value="Japan">Japan(+81)</option>
+                                <option value="China">China(+86)</option>
+                                <option value="Indien">Indien(+91)</option>
+                                <option value="Südafrika">Südafrika(+27)</option>
+                                <option value="Türkei">Türkei(+90)</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="form-group">
+                            <label for="telefon">Telefonnummer:</label>
+                            <input type="text" class="form-control" id="telefon" name="telefon"
+                                placeholder="Telefonnummer:" required>
+                        </div>
+                    </div>
                 </div>
                 <div class="row">
                     <div class="col">
                         <div class="form-group">
                             <label for="strasse">Straße:</label>
-                            <input type="text" class="form-control" id="strasse" name="strasse" placeholder="Straße:" required>
+                            <input type="text" class="form-control" id="strasse" name="strasse" placeholder="Straße:"
+                                required>
                         </div>
                     </div>
                     <div class="col">
                         <div class="form-group">
                             <label for="hausnummer">Hausnummer:</label>
-                            <input type="text" class="form-control" id="hausnummer" name="hausnummer" placeholder="Hausnummer:" required>
+                            <input type="text" class="form-control" id="hausnummer" name="hausnummer"
+                                placeholder="Hausnummer:" required>
                         </div>
                     </div>
                 </div>
@@ -143,7 +186,8 @@
                     <div class="col">
                         <div class="form-group">
                             <label for="wohnort">Wohnort:</label>
-                            <input type="text" class="form-control" id="wohnort" name="wohnort" placeholder="Wohnort:" required>
+                            <input type="text" class="form-control" id="wohnort" name="wohnort" placeholder="Wohnort:"
+                                required>
                         </div>
                     </div>
                 </div>
@@ -174,7 +218,8 @@
                 <h2>Bankverbindung</h2>
                 <div class="form-group">
                     <label for="kontoinhaber">Kontoinhaber:</label>
-                    <input type="text" class="form-control" id="kontoinhaber" name="kontoinhaber" placeholder="Kontoinhaber:" required>
+                    <input type="text" class="form-control" id="kontoinhaber" name="kontoinhaber"
+                        placeholder="Kontoinhaber:" required>
                 </div>
                 <div class="form-group">
                     <label for="iban">IBAN:</label>
@@ -182,15 +227,15 @@
                 </div>
                 <div class="form-group">
                     <label for="kreditinstitut">Name des Kreditinstituts:</label>
-                    <input type="text" class="form-control" id="kreditinstitut" name="kreditinstitut" placeholder="Name des Kreditinstituts:"
-                        required>
+                    <input type="text" class="form-control" id="kreditinstitut" name="kreditinstitut"
+                        placeholder="Name des Kreditinstituts:" required>
                 </div>
                 <!-- Lohnsteuer wie Steueridentifikationsnummer, Steuerklasse -->
                 <h2>Lohnsteuer</h2>
                 <div class="form-group">
                     <label for="steueridentifikationsnummer">Steueridentifikationsnummer:</label>
-                    <input type="text" class="form-control" id="steueridentifikationsnummer" name="steueridentifikationsnummer"
-                        placeholder="Steueridentifikationsnummer:" required>
+                    <input type="text" class="form-control" id="steueridentifikationsnummer"
+                        name="steueridentifikationsnummer" placeholder="Steueridentifikationsnummer:" required>
                 </div>
                 <div class="form-group">
                     <label for="steuerklasse">Steuerklasse:</label>
@@ -209,7 +254,8 @@
                 <h2>Sozialversicherung</h2>
                 <div class="form-group">
                     <label for="krankenkasse">Krankenkasse:</label>
-                    <input type="text" class="form-control" id="krankenkasse" name="krankenkasse" placeholder="Krankenkasse:" required>
+                    <input type="text" class="form-control" id="krankenkasse" name="krankenkasse"
+                        placeholder="Krankenkasse:" required>
                 </div>
                 <div class="form-group">
                     <label for="versicherungsnummer">Versicherungsnummer (RV-Nummer):</label>
@@ -224,12 +270,13 @@
                 </div>
                 <div class="form-group">
                     <label for="berufsbezeichnung">Berufsbezeichnung:</label>
-                    <input type="text" class="form-control" id="berufsbezeichnung" name="berufsbezeichnung" placeholder="Berufsbezeichnung:"
-                        required>
+                    <input type="text" class="form-control" id="berufsbezeichnung" name="berufsbezeichnung"
+                        placeholder="Berufsbezeichnung:" required>
                 </div>
                 <div class="form-group">
                     <label for="abteilung">Abteilung:</label>
-                    <input type="text" class="form-control" id="abteilung" name="abteilung" placeholder="Abteilung:" required>
+                    <input type="text" class="form-control" id="abteilung" name="abteilung" placeholder="Abteilung:"
+                        required>
                 </div>
                 <div class="float-left">
                     <!-- Button zum übertragen der Daten an die CSV-Datei -->

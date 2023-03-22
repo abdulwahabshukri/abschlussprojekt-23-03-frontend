@@ -62,7 +62,7 @@ Sprint-Review durchgeführt.
 
 22.03.2023:
 Daily in der Klasse durchgeführt.
-Wir haben versucht die Pipeline in Jenkins zu automatisieren und mit Github Actions einzubinden. Aber das ganze läuft noch nicht ganz. Es ist leider noch nicht sichtbar auf dem Jenkins Server.
+Wir haben versucht die Pipeline in Jenkins zu automatisieren und mit Github Actions einzubinden. Aber das ganze läuft noch nicht ganz einwandfrei. Es ist leider noch nicht sichtbar auf dem Jenkins Server.
 
 23.03.2023:
 Daily in der Klasse durchgeführt.

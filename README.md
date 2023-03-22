@@ -61,5 +61,8 @@ Sprint-Review durchgeführt.
 Änderungen direkt durchgeführt wie, Staatangehörigkeit (Türkei) hinzufügen, Landeswahl bei Telefonnr, Anrede leerfeld.
 
 22.03.2023:
-Daily in der Klasse durchgeführt
-Wir haben versucht den Pipeline zu automatisieren mit Github actions, aber läuft noch nicht ganz, ist leider nicht sichtbar auf Jenkins.
+Daily in der Klasse durchgeführt.
+Wir haben versucht die Pipeline in Jenkins zu automatisieren und mit Github Actions einzubinden. Aber das ganze läuft noch nicht ganz. Es ist leider nicht sichtbar auf dem Jenkins Server.
+
+23.03.2023:
+Daily in der Klasse durchgeführt.

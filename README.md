@@ -58,3 +58,8 @@ Wir haben nach dem erfolgreichen Deployment heute, dies auch an das Backend-Team
 21.03.2023:
 Daily in der Klasse durchgeführt.
 Sprint-Review durchgeführt.
+Änderungen direkt durchgeführt wie, Staatangehörigkeit (Türkei) hinzufügen, Landeswahl bei Telefonnr, Anrede leerfeld.
+
+22.03.2023:
+Daily in der Klasse durchgeführt
+Wir haben versucht den Pipeline zu automatisieren mit Github actions, aber läuft noch nicht ganz, ist leider nicht sichtbar auf Jenkins.

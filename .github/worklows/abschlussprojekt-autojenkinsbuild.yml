@@ -17,4 +17,4 @@ jobs:
         url: 'http://20.107.39.99'
         user: ${{ secrets.JENKINS_USER }}
         token: ${{ secrets.JENKINS_PASSWORD }}
-        job: 'build-pipeline'
+        job: 'frontend-build'

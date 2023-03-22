@@ -17,5 +17,5 @@ jobs:
           jenkins_url: 'http://20.107.39.99'
           jenkins_user: ${{ secrets.JENKINS_USER }}
           jenkins_token: ${{ secrets.JENKINS_PASSWORD }}
-          jenkins_file_path: 'frontend/Jenkinsfile'
+          jenkins_file_path: 'frontend-build/Jenkinsfile'
 

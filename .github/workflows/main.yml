@@ -12,10 +12,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: Build with Jenkins
-        uses: appleboy/jenkins-action@v2
+        uses: jenkins/declarative-action@v1
         with:
-          url: 'http://20.107.39.99'
-          user: ${{ secrets.JENKINS_USER }}
-          token: ${{ secrets.JENKINS_PASSWORD }}
-          job: 'frontend-build'
+          jenkins_url: 'http://20.107.39.99'
+          jenkins_user: ${{ secrets.JENKINS_USER }}
+          jenkins_token: ${{ secrets.JENKINS_PASSWORD }}
+          jenkins_file_path: 'frontend-build/Jenkinsfile'
 

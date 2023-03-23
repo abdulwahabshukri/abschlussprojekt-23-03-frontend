@@ -66,3 +66,8 @@ Wir haben versucht die Pipeline in Jenkins zu automatisieren und mit Github Acti
 
 23.03.2023:
 Daily in der Klasse durchgeführt.
+Feedback von jedem Teilnehmer eingeholt der durchgeführten Arbeiten zum aktuellen Stand.
+Fehleranlayse in der Klasse zum Projekt (allgemein).
+
+24.03.2023:
+Daily in der Klasse durchgeführt.

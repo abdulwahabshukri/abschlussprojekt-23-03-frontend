@@ -25,9 +25,7 @@ Das Team hat sich mit dem Backend-Team abgestimmt und unseren lokalen Code an da
 Das Team hat gemeinsam das Sprint-Review durchgeführt und unser Frontend in der Klasse präsentiert, um mögliche Fehler frühzeitig zu erkennen und zu beheben. Zusätzlich haben wir das Feedback des Kunden zum Projekt eingeholt.
 
 16.03.2023:
-Als Team haben wir das Daily in der Klasse durchgeführt und Feedback von jedem Teilnehmer eingeholt, 
-der die durchgeführten Arbeiten erledigt hat. 
-Wir haben auch mit den ersten gemeinsamen Arbeiten an der Abschlusspräsentation in PowerPoint begonnen.
+Als Team haben wir das Daily-Meeting in der Klasse abgehalten und das Feedback jedes Teammitglieds zu den erledigten Aufgaben eingeholt. Zudem haben wir mit den ersten gemeinsamen Arbeiten an der Abschlusspräsentation in PowerPoint begonnen.
 
 17.03.2023:
 Als Team haben wir das Daily in der Klasse durchgeführt und Feedback von jedem Teilnehmer eingeholt, der die durchgeführten Arbeiten erledigt hat. 

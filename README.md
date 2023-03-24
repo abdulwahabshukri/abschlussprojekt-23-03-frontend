@@ -7,8 +7,7 @@ Frontend-Team Mitglieder:
 -Tom van Dujin
 
 08.03.2023:
-Es wurde als Frontend-Team ein neues Projekt begonnen und Teams erstellt sowie Todos erstellt. 
-Wir haben uns darum gekümmert, wie ein Personalverwaltungssystem aussehen sollte und einen Meilenstein erstellt.
+Als Frontend-Team haben wir ein neues Projekt gestartet und dafür Teams gebildet sowie Aufgaben definiert. Wir haben uns intensiv damit auseinandergesetzt, wie ein Personalverwaltungssystem gestaltet sein sollte und einen Meilenstein gesetzt, um dieses Ziel zu erreichen.
 
 09.03.2023:
 Das Team hat den Sprint 1 erstellt und erste Entwürfe hochgeladen sowie an das Backend-Team übermittelt. 

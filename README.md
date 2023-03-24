@@ -16,8 +16,7 @@ Das Team hat den ersten Sprint abgeschlossen, indem es erste Entwürfe erstellt 
 Wir als Team haben uns um die Anpassung des CSS gekümmert und die Länderflaggen bei den Staatsangehörigkeiten integriert. Des Weiteren haben wir die Abstände (Margin) optimiert. Nachdem wir eine neuere Version auf Github hochgeladen haben, haben wir Kontakt mit dem Backend-Team aufgenommen, um sicherzustellen, dass alle Fragen geklärt sind.
 
 13.03.2023:
-Wir haben im Team erste Gespräche mit dem Product-Owner im Daily absolviert, um sicherzustellen, dass das Projekt optisch den Wünschen des Kunden entspricht und die diversen Eingabefelder passen sowie ob noch etwas fehlt bzw. Verbesserungsvorschläge gewünscht sind. 
-Wir haben auch Kontakt mit dem Backend- und Infrastruktur-Team aufgenommen, um sicherzustellen, dass alles reibungslos läuft.
+Im Team haben wir erste Gespräche mit dem Product Owner im Daily abgehalten, um sicherzustellen, dass das Projekt den optischen Vorstellungen des Kunden entspricht und die verschiedenen Eingabefelder passen. Zudem haben wir geprüft, ob noch etwas fehlt oder ob Verbesserungsvorschläge gewünscht sind. Außerdem haben wir den Kontakt zum Backend- und Infrastruktur-Team aufgenommen, um sicherzustellen, dass alles reibungslos läuft.
 
 14.03.2023:
 Das Team hat sich mit dem Backend-Team abgesprochen und unseren lokalen Code an das Team weitergegeben. 

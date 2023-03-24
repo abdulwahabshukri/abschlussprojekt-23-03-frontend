@@ -22,9 +22,7 @@ Im Team haben wir erste Gespräche mit dem Product Owner im Daily abgehalten, um
 Das Team hat sich mit dem Backend-Team abgestimmt und unseren lokalen Code an das Backend-Team weitergegeben. Sie werden ihren Teil integrieren, damit wir ein fertiges Produkt präsentieren können, das beim Sprint-Review an den Kunden übergeben wird. Wir haben das Miro-Board mit dem Scrum Master (Gabriel Ramirez) aktualisiert und kommentare hinzugefügt. Außerdem haben wir versucht, Kontakt zum Infrastruktur-Team aufzunehmen, um Fragen bezüglich des Containers mit Docker und der Jenkinsfile zu klären.
 
 15.03.2023:
-Das Team hat gemeinsam das Sprint-Review durchgeführt und unser Frontend in der Klasse präsentiert, 
-um mögliche Fehler rechtzeitig zu erkennen und zu beheben. 
-Zudem haben wir die Meinung des Kunden zum Projekt eingeholt.
+Das Team hat gemeinsam das Sprint-Review durchgeführt und unser Frontend in der Klasse präsentiert, um mögliche Fehler frühzeitig zu erkennen und zu beheben. Zusätzlich haben wir das Feedback des Kunden zum Projekt eingeholt.
 
 16.03.2023:
 Als Team haben wir das Daily in der Klasse durchgeführt und Feedback von jedem Teilnehmer eingeholt, 

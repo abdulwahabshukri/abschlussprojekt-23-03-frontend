@@ -19,10 +19,7 @@ Wir als Team haben uns um die Anpassung des CSS gekümmert und die Länderflagge
 Im Team haben wir erste Gespräche mit dem Product Owner im Daily abgehalten, um sicherzustellen, dass das Projekt den optischen Vorstellungen des Kunden entspricht und die verschiedenen Eingabefelder passen. Zudem haben wir geprüft, ob noch etwas fehlt oder ob Verbesserungsvorschläge gewünscht sind. Außerdem haben wir den Kontakt zum Backend- und Infrastruktur-Team aufgenommen, um sicherzustellen, dass alles reibungslos läuft.
 
 14.03.2023:
-Das Team hat sich mit dem Backend-Team abgesprochen und unseren lokalen Code an das Team weitergegeben. 
-Sie werden ihren Teil einbinden, damit wir ein fertiges Produkt zeigen können, das dem Kunden beim Sprint-Review übergeben wird. 
-Wir haben das Miro-Board mit dem Srum Master (Gabriel Ramirez) aktualisiert und die Kommentare angefügt. 
-Wir haben auch versucht, mit dem Team-Infrastruktur in Kontakt zu kommen, um Fragen über den Container mit Docker und Jenkinsfile zu klären.
+Das Team hat sich mit dem Backend-Team abgestimmt und unseren lokalen Code an das Backend-Team weitergegeben. Sie werden ihren Teil integrieren, damit wir ein fertiges Produkt präsentieren können, das beim Sprint-Review an den Kunden übergeben wird. Wir haben das Miro-Board mit dem Scrum Master (Gabriel Ramirez) aktualisiert und kommentare hinzugefügt. Außerdem haben wir versucht, Kontakt zum Infrastruktur-Team aufzunehmen, um Fragen bezüglich des Containers mit Docker und der Jenkinsfile zu klären.
 
 15.03.2023:
 Das Team hat gemeinsam das Sprint-Review durchgeführt und unser Frontend in der Klasse präsentiert, 

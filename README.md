@@ -40,7 +40,7 @@ Wir haben auch mit den ersten gemeinsamen Arbeiten an der Abschlusspräsentation
 17.03.2023:
 Als Team haben wir das Daily in der Klasse durchgeführt und Feedback von jedem Teilnehmer eingeholt, der die durchgeführten Arbeiten erledigt hat. 
 Wir haben auch diverse Tests durchgeführt, darunter einen Barrierefreiheitstest unseres HTML-Codes, speziell im Team-Frontend. 
-Wir haben auch weiter an der Abschlusspräsentation gemeinsam gearbeitet und den Zwischenstand unseres Abschlussprojekts für jeden Teilnehmer einzeln protokolliert und bei Aufgaben (Microsoft Teams) abgegeben..
+Wir haben auch weiter an der Abschlusspräsentation gemeinsam gearbeitet und den Zwischenstand unseres Abschlussprojekts für jeden Teilnehmer einzeln protokolliert und bei Aufgaben (Microsoft Teams) abgegeben.
 
 20.03.2023 
 Wir haben als Team gemeinsam das Miro-Board aktualisiert und uns mit Gabriel Ramirez getroffen. 
@@ -60,7 +60,7 @@ Leider läuft das Ganze noch nicht ganz einwandfrei und ist noch nicht sichtbar 
 
 23.03.2023:
 Erneut das Daily in der Klasse durchgeführt und Feedback von jedem Teilnehmer zum aktuellen Stand eingeholt. 
-Wir haben auch eine Fehleranalyse in der Klasse zum Projekt durchgeführt
+Wir haben auch eine Fehleranalyse in der Klasse zum Projekt durchgeführt.
 
 24.03.2023:
 Das Daily in der Klasse durchgeführt und den Code überprüft sowie Fehler behoben.

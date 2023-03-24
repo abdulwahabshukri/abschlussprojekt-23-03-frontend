@@ -10,8 +10,7 @@ Frontend-Team Mitglieder:
 Als Frontend-Team haben wir ein neues Projekt gestartet und dafür Teams gebildet sowie Aufgaben definiert. Wir haben uns intensiv damit auseinandergesetzt, wie ein Personalverwaltungssystem gestaltet sein sollte und einen Meilenstein gesetzt, um dieses Ziel zu erreichen.
 
 09.03.2023:
-Das Team hat den Sprint 1 erstellt und erste Entwürfe hochgeladen sowie an das Backend-Team übermittelt. 
-Wir haben weitere Versionen der HTML mit CSS hochgeladen und in diese Github Repository hochgeladen.
+Das Team hat den ersten Sprint abgeschlossen, indem es erste Entwürfe erstellt und an das Backend-Team übermittelt hat. Zudem haben wir weitere Versionen der HTML-Dateien mit CSS erstellt und in die Github-Repository hochgeladen.
 
 10.03.2023:
 Als Team haben wir uns um das Anpassen von CSS gekümmert und Länder-Flaggen bei den Staatsangehörigkeiten eingefügt sowie Abstände (Margin) verbessert. Wir haben eine neuere Version in Github hochgeladen und Kontakt mit dem Backend-Team aufgenommen, um sicherzustellen, dass alle Fragen geklärt sind.

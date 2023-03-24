@@ -28,9 +28,7 @@ Das Team hat gemeinsam das Sprint-Review durchgeführt und unser Frontend in der
 Als Team haben wir das Daily-Meeting in der Klasse abgehalten und das Feedback jedes Teammitglieds zu den erledigten Aufgaben eingeholt. Zudem haben wir mit den ersten gemeinsamen Arbeiten an der Abschlusspräsentation in PowerPoint begonnen.
 
 17.03.2023:
-Als Team haben wir das Daily in der Klasse durchgeführt und Feedback von jedem Teilnehmer eingeholt, der die durchgeführten Arbeiten erledigt hat. 
-Wir haben auch diverse Tests durchgeführt, darunter einen Barrierefreiheitstest unseres HTML-Codes, speziell im Team-Frontend. 
-Wir haben auch weiter an der Abschlusspräsentation gemeinsam gearbeitet und den Zwischenstand unseres Abschlussprojekts für jeden Teilnehmer einzeln protokolliert und bei Aufgaben (Microsoft Teams) abgegeben.
+Als Team haben wir das tägliche Meeting abgehalten und das Feedback jedes Teammitglieds zu den erledigten Aufgaben eingeholt. Zudem haben wir verschiedene Tests durchgeführt, darunter einen Barrierefreiheitstest bis hin zu einem Test für Mobilgeräte unseres HTML-Codes, insbesondere im Frontend-Team. Wir haben auch gemeinsam weiter an der Abschlusspräsentation gearbeitet und den Fortschritt unseres Abschlussprojekts für jeden Einzelnen protokolliert und in den Aufgabenbereich (Microsoft Teams) hochgeladen.
 
 20.03.2023 
 Wir haben als Team gemeinsam das Miro-Board aktualisiert und uns mit Gabriel Ramirez getroffen. 

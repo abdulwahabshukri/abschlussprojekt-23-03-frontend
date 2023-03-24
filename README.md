@@ -71,3 +71,4 @@ Fehleranlayse in der Klasse zum Projekt durchgeführt (allgemein).
 
 24.03.2023:
 Daily in der Klasse durchgeführt.
+Code Überprüft und fehler gefixt

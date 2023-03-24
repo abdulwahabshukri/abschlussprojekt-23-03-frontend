@@ -51,4 +51,6 @@ Erneut das Daily in der Klasse durchgeführt und Feedback von jedem Teilnehmer z
 Wir haben auch eine Fehleranalyse in der Klasse zum Projekt durchgeführt.
 
 24.03.2023:
-Das Daily in der Klasse durchgeführt und den Code überprüft sowie Fehler behoben.
+Das Daily in der Klasse durchgeführt und den Code überprüft sowie Fehler behoben. Außerdem haben wir das Projekt dem Kunde vorgestellt.
+
+27.03.2023: Daily in der Klasse durchgeführt.

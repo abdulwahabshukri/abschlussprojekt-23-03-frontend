@@ -13,7 +13,7 @@ Als Frontend-Team haben wir ein neues Projekt gestartet und dafür Teams gebilde
 Das Team hat den ersten Sprint abgeschlossen, indem es erste Entwürfe erstellt und an das Backend-Team übermittelt hat. Zudem haben wir weitere Versionen der HTML-Dateien mit CSS erstellt und in die Github-Repository hochgeladen.
 
 10.03.2023:
-Als Team haben wir uns um das Anpassen von CSS gekümmert und Länder-Flaggen bei den Staatsangehörigkeiten eingefügt sowie Abstände (Margin) verbessert. Wir haben eine neuere Version in Github hochgeladen und Kontakt mit dem Backend-Team aufgenommen, um sicherzustellen, dass alle Fragen geklärt sind.
+Wir als Team haben uns um die Anpassung des CSS gekümmert und die Länderflaggen bei den Staatsangehörigkeiten integriert. Des Weiteren haben wir die Abstände (Margin) optimiert. Nachdem wir eine neuere Version auf Github hochgeladen haben, haben wir Kontakt mit dem Backend-Team aufgenommen, um sicherzustellen, dass alle Fragen geklärt sind.
 
 13.03.2023:
 Wir haben im Team erste Gespräche mit dem Product-Owner im Daily absolviert, um sicherzustellen, dass das Projekt optisch den Wünschen des Kunden entspricht und die diversen Eingabefelder passen sowie ob noch etwas fehlt bzw. Verbesserungsvorschläge gewünscht sind. 

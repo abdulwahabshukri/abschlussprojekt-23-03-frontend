@@ -31,11 +31,7 @@ Als Team haben wir das Daily-Meeting in der Klasse abgehalten und das Feedback j
 Als Team haben wir das tägliche Meeting abgehalten und das Feedback jedes Teammitglieds zu den erledigten Aufgaben eingeholt. Zudem haben wir verschiedene Tests durchgeführt, darunter einen Barrierefreiheitstest bis hin zu einem Test für Mobilgeräte unseres HTML-Codes, insbesondere im Frontend-Team. Wir haben auch gemeinsam weiter an der Abschlusspräsentation gearbeitet und den Fortschritt unseres Abschlussprojekts für jeden Einzelnen protokolliert und in den Aufgabenbereich (Microsoft Teams) hochgeladen.
 
 20.03.2023 
-Wir haben als Team gemeinsam das Miro-Board aktualisiert und uns mit Gabriel Ramirez getroffen. 
-Zusammen mit dem Infrastruktur-Team haben wir unsere Github Repository in eine Jenkins-Pipeline eingebunden, 
-damit jede spezielle Code Änderung das Deploy aktualisiert. 
-Zunächst wurde das Deploy in der Test Ressourcen-Gruppe durchgeführt, danach in die offizielle Ressourcen Gruppe eingefügt. 
-Nach dem erfolgreichen Deployment haben wir dies auch an das Backend-Team weitergegeben.
+Als Team haben wir gemeinsam das Miro-Board aktualisiert und uns mit unserem Csrum Master getroffen (Gabriel Ramirez). Zusammen mit dem Infrastruktur-Team haben wir unsere Github-Repository in eine Jenkins-Pipeline integriert, damit jede Code-Änderung automatisch das Deploy aktualisiert. Zunächst wurde das Deploy in der Test-Ressourcen-Gruppe durchgeführt, bevor es dann in die offizielle Ressourcen-Gruppe übertragen wurde. Nach dem erfolgreichen Deployment haben wir auch das Backend-Team informiert.
 
 21.03.2023:
 Haben wie in der Klasse das Daily durchgeführt und eine Sprint-Review durchgeführt. 

@@ -34,7 +34,7 @@ Als Team haben wir das tägliche Meeting abgehalten und das Feedback jedes Teamm
 Als Team haben wir gemeinsam das Miro-Board aktualisiert und uns mit unserem Csrum Master getroffen (Gabriel Ramirez). Zusammen mit dem Infrastruktur-Team haben wir unsere Github-Repository in eine Jenkins-Pipeline integriert, damit jede Code-Änderung automatisch das Deploy aktualisiert. Zunächst wurde das Deploy in der Test-Ressourcen-Gruppe durchgeführt, bevor es dann in die offizielle Ressourcen-Gruppe übertragen wurde. Nach dem erfolgreichen Deployment haben wir auch das Backend-Team informiert.
 
 21.03.2023:
-Haben wie in der Klasse das Daily durchgeführt und eine Sprint-Review durchgeführt. 
+An diesem Tag haben wir in der Klasse das tägliche Daily durchgeführt ebenso das Sprint-Review durchgeführt. 
 Wir haben Änderungen direkt durchgeführt, wie das Hinzufügen der Staatsangehörigkeit "Türkei", 
 die Landeswahl bei Telefonnummern und das Leerfeld bei der Anrede.
 

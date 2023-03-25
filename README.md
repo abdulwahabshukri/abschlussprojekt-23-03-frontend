@@ -1,5 +1,5 @@
 # Abschlussprojekt 2023 Frontend-Team (c) techstarter.de
-Frontend-Team Mitglieder: 
+# Frontend-Team Mitglieder: 
 
 -Michael Leipner
 -Michel Hilarius
